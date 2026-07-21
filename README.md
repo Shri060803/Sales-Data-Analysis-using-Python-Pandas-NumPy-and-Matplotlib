@@ -56,8 +56,41 @@ Shruti Sharma
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
+## Project Screenshots
 
+### Dataset Preview
+![Dataset Preview](Dataset Preview.png)
 
+### Dataset Information
+![Dataset Information](Dataset Information.png)
+
+### Dataset Statistics
+![Dataset Statistics](Dataset Statistics.png)
+
+### Missing Values Check
+![Missing Values 1](Missing Values 1.png)
+
+![Missing Values 2](Missing Values 2.png)
+
+![Missing Values 3](Missing Values 3.png)
+
+### Duplicate Values Check
+![Duplicate Values](Duplicate Values.png)
+
+### Sales by Year
+![Sales by Year](Sales by Year Chart.png)
+
+### Profit by Year
+![Profit by Year](Profit by Year Chart.png)
+
+### Sales by Product
+![Sales by Product](Sales by Product Name .png)
+
+### Sales by City
+![Sales by City](Sales by City Chart.png)
+
+### Sales by Category
+![Sales by Category](Sales by Category Chart.png)
 
 
 
