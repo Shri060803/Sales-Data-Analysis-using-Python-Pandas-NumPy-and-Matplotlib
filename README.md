@@ -56,11 +56,3 @@ Shruti Sharma
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-
-![Sales by Category](Sales by Category Chart.png)
-
-## Sales by Product
-![Sales by Product](Sales by Product Name .png)
-
-## Sales by City
-![Sales by City](Sales by City Chart.png)
